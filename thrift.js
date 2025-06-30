@@ -6,19 +6,19 @@
                 id: 1,
                 name: "Red T‑Shirt",
                 price: 30000,
-                img: "https://picsum.photos/seed/t1/400/300",
+                img: "https://media.istockphoto.com/id/802266788/photo/red-tshirt-clothes-on-isolated.jpg?s=1024x1024&w=is&k=20&c=JUmdFPoeKrjIgLINHls4qvfCs2MV6oBnIwlns7krZA0=",
             },
             {
                 id: 2,
                 name: "Blue Jeans",
                 price: 60000,
-                img: "https://picsum.photos/seed/t2/400/300",
+                img: "https://plus.unsplash.com/premium_photo-1665664652383-2308d742943c?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             },
             {
                 id: 3,
                 name: "Sneakers",
                 price: 120000,
-                img: "https://picsum.photos/seed/t3/400/300",
+                img: "https://media.istockphoto.com/id/1688015574/photo/white-sneaker-isolated-on-white-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=6JRmdS5V14lvIBrVvfu8Q6qHgZ8-gYRr4X45xXrByp8=",
             },
         ];
 
